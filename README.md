@@ -23,8 +23,6 @@ A computer vision application that enables touch-free control of your laptop's s
 4. **Brightness Adjustment** - Controls system brightness via platform APIs
 
 ### Default Gestures
-- 👍 **Thumbs Up** - Increase brightness
-- 👎 **Thumbs Down** - Decrease brightness
 
 ## Installation
 
